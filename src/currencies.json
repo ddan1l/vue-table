@@ -1,0 +1,498 @@
+[
+  {
+    "last_update_at": "2021-03-29 06:45:18.300663",
+    "code": "1ST",
+    "name": "First Blood",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:22.217051",
+    "code": "AAVE",
+    "name": "Aave",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:25.526062",
+    "code": "ABA",
+    "name": "EcosBall",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:24.151135",
+    "code": "ABYSS",
+    "name": "Abyss Token",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:23.089545",
+    "code": "ACAT",
+    "name": "Alphacat",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:08.613004",
+    "code": "ACO",
+    "name": "ACO",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:08.829838",
+    "code": "ACT",
+    "name": "Achain",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:16.316197",
+    "code": "ADA",
+    "name": "Cardano",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:09.698004",
+    "code": "ADH",
+    "name": "ADH",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2020-03-18 12:21:12.503067",
+    "code": "ADK",
+    "name": "Aidos Kuneen",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 0,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:21.234213",
+    "code": "ADXN",
+    "name": "AdEx new",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:11.397663",
+    "code": "AE",
+    "name": "Aeternity",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 0,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:10.325807",
+    "code": "AEON",
+    "name": "Aeon",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2020-03-18 12:21:23.9802",
+    "code": "AGI",
+    "name": "SingularityNET",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2020-03-18 12:21:13.261555",
+    "code": "ALGO",
+    "name": "Algorand",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:12.324572",
+    "code": "AMB",
+    "name": "Ambrosus",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:19.58111",
+    "code": "AMM",
+    "name": "Micro Money",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:21.992284",
+    "code": "AMP",
+    "name": "AMP",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:12.441734",
+    "code": "ANT",
+    "name": "Aragon",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2020-03-18 12:21:12.300603",
+    "code": "APL",
+    "name": "Apollo",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:24.651163",
+    "code": "APPC",
+    "name": "Appcoins",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:12.481317",
+    "code": "ARCT",
+    "name": "ARCT",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:12.508031",
+    "code": "ARDR",
+    "name": "Ardor",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:21.714723",
+    "code": "ARNX",
+    "name": "Aeron",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2020-03-18 12:21:13.211982",
+    "code": "ARPA",
+    "name": "ARPA Chain",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:19.424934",
+    "code": "ART",
+    "name": "Maecenas",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:12.516057",
+    "code": "ATB",
+    "name": "ATB",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:12.764281",
+    "code": "ATL",
+    "name": "ATL",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:12.838793",
+    "code": "ATM",
+    "name": "ATM",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2020-03-18 12:21:12.135729",
+    "code": "ATOM",
+    "name": "Cosmos",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:22.692208",
+    "code": "ATRI",
+    "name": "Atari Token",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:13.033231",
+    "code": "ATS",
+    "name": "ATS",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:23.342324",
+    "code": "AUC",
+    "name": "Auctus",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:17.221976",
+    "code": "AUTO",
+    "name": "CUBE",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2020-03-18 12:21:12.887081",
+    "code": "AVA",
+    "name": "Travala.com",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:12.422505",
+    "code": "AVH",
+    "name": "AVH",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:13.133356",
+    "code": "AVT",
+    "name": "Aventus",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:25.592528",
+    "code": "AXPR",
+    "name": "AXpire",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:13.497499",
+    "code": "BANCA",
+    "name": "BANCA",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:22.166992",
+    "code": "BAR",
+    "name": "Titanium Blockchain",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:15.039588",
+    "code": "BAS",
+    "name": "BAS",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:25.150711",
+    "code": "BAT",
+    "name": "Basic Attention Token",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:23.00685",
+    "code": "BBC",
+    "name": "BBC",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:24.201315",
+    "code": "BCD",
+    "name": "Bitcoin Diamond",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:25.892413",
+    "code": "BCH",
+    "name": "Bitcoin CASH",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:23.642501",
+    "code": "BCHA",
+    "name": "Bitcoin Cash A",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 0,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2019-07-11 15:39:21.079113",
+    "code": "BCHABC",
+    "name": "Bitcoin Cash ABC",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2019-07-11 15:39:21.129191",
+    "code": "BCHSV",
+    "name": "Bitcoin Cash SV",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:16.158342",
+    "code": "BCN",
+    "name": "Bytecoin",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:15.808514",
+    "code": "BCPT",
+    "name": "BlockMason Credit Protocol",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:25.384453",
+    "code": "BCST",
+    "name": "BCST",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:15.649264",
+    "code": "BDG",
+    "name": "BitDegree",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2020-03-18 12:21:13.019677",
+    "code": "BDP",
+    "name": "BidiPass",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:13.547167",
+    "code": "BERRY",
+    "name": "Berry",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:17.358205",
+    "code": "BET",
+    "name": "DAOBet",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 0,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:13.783829",
+    "code": "BETR",
+    "name": "BETR",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:14.116443",
+    "code": "BEZ",
+    "name": "BEZ",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:18.50052",
+    "code": "BGG",
+    "name": "BGG",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:24.683995",
+    "code": "BIT",
+    "name": "BitRewards",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:25.625696",
+    "code": "BITS",
+    "name": "BITS",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2021-03-29 06:45:13.586903",
+    "code": "BKB",
+    "name": "BKB",
+    "deposit_enabled": 0,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 0
+  },
+  {
+    "last_update_at": "2020-03-18 12:21:23.963651",
+    "code": "BLZ",
+    "name": "Bluzelle",
+    "deposit_enabled": 1,
+    "withdrawal_enabled": 1,
+    "trading_enabled": 1
+  }
+]
